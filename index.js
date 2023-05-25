@@ -7,7 +7,7 @@ var databse = JSON.parse(fs.readFileSync('usuarios.json', 'utf-8'))
 
 
 
-
+////////////// OBS CRIAR FUNÇÃO DE REMOVER USUÁRIO ////////////////////
 
 //Funções
 function cadastrar(usuario){
